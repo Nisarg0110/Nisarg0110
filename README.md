@@ -25,7 +25,7 @@ How to reach me nisargkadliya@gmail.com
 
 ## Top Languages: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nisarg0110&show_icons=true&locale=en&layout=compact" alt="Nisarg0110" /></p>
-
+<hr>
 ## Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisarg0110&show_icons=true&locale=en" alt="Nisarg0110" /></p>
 
