@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-> My name is Nisarg, I'm pursuing my Bachelor's of Technology in Computer Science and Engineering.
+> My name is Nisarg, I'm pursuing my Bachelor's of Technology in Computer Science and Engineering.Currently focused on web development with a strong passion for building dynamic and responsive web pages.
 
 How to reach me nisargkadliya@gmail.com
 
