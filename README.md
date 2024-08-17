@@ -24,7 +24,8 @@ How to reach me nisargkadliya@gmail.com
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nisarg0110&theme=transparent)](https://github.com/Nisarg0110/) -->
 
 ## Top Languages: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg0110&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg0110&layout=compact)-->
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Nisarg0110&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 ## Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nisarg0110&theme=transparent)
