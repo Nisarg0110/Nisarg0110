@@ -102,13 +102,5 @@ How to reach me nisargkadliya@gmail.com
         <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
         <br>Postman</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
-        <a href="https://www.Jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="60" height="60" padding="5" alt="TypeScript" /></a>
-        <br>Jenkins</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" padding="5" alt="Redis" /></a>
-        <br>Kubernetes</br>
-</td>
 </tr>
 </table>
