@@ -68,10 +68,6 @@ How to reach me nisargkadliya@gmail.com
         <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" padding="5" alt="VS Code" /></a>
         <br>VS Code</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
-        <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
-        <br>Bootstrap</br>
-</td>
 </tr>
 <tr>
  <td align="center" width="96" style="border:2px solid blue">
@@ -101,6 +97,10 @@ How to reach me nisargkadliya@gmail.com
 <td align="center" width="96" style="border:2px solid blue">
         <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
         <br>Postman</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  /></a>
+        <br>Bootstrap</br>
 </td>
 </tr>
 </table>
